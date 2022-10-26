@@ -1,4 +1,4 @@
-Citizen.CreateThread(function()
+CreateThread(function()
     while true do
         DistantCopCarSirens(false)
         Citizen.Wait(400)
