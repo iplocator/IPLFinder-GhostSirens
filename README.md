@@ -23,5 +23,3 @@ This standalone resource allows you to easily disable ghost sirens in your FiveM
 ## Acknowledgements
 
 Feel free to reach out if you have any questions or need further assistance.
-
-
